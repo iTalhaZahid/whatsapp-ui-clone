@@ -18,28 +18,20 @@ A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo
 - 📞 Calls tab with incoming/outgoing/missed call indicators
 
 ---
-
 ## 📸 Screenshots
 
 > Images are stored in the `/Screenshots` folder.
 
-|   Splash Screen       | Activity Indicator Animation |
-|-----------------------|------------------------------|
-|![](/Screenshots/1.png) | ![](/Screenshots/2.png)       |
+|   Splash Screen       | Activity Indicator Animation |    Welcome Screen      |        Phone Input     | 
+|------------------------|-----------------------------|----------------------------|-----------------------|
+|  <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/1.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> |  <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/2.png?raw=true" alt="Alt Text" style="width:250px; height:auto;">       |   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/3.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> |   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/4.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> | 
 
-|    Welcome Screen      |        Phone Input     |     OTP Screen         |
-|------------------------|------------------------|------------------------|
-| ![](/Screenshots/3.png) | ![](/Screenshots/4.png) | ![](/Screenshots/5.png) |
-
-|       Chats Tab        |       Status Tab       |
-|------------------------|------------------------|
-| ![](/Screenshots/6.png) | ![](/Screenshots/7.png) |
-
-|       Calls Tab        |
-|------------------------|
-| ![](/Screenshots/8.png) |
+|     OTP Screen         |       Chats Tab        |       Status Tab       |       Calls Tab        |
+|------------------------|------------------------|------------------------|------------------------|
+|   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/5.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> |   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/6.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> |   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/7.png?raw=true" alt="Alt Text" style="width:250px; height:auto;">|   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/8.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> | 
 
 ---
+
 
 ## 🧱 Folder Structure
 
