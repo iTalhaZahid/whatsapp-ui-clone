@@ -23,22 +23,20 @@ A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo
 
 > Images are stored in the `/Screenshots` folder.
 
- Splash Screen | Activity Indicator Animation |
----------------|------------------------------|
-![](Screenshots/1.png) | ![](Screenshots/2.png) |
+|   Splash Screen       | Activity Indicator Animation |
+|-----------------------|------------------------------|
+|![](Screenshots/1.png) | ![](Screenshots/2.png)       |
 
-| Welcome Screen | Phone Input  | OTP Screen |
-|----------------|--------------|------------|
+|    Welcome Screen      |        Phone Input     |     OTP Screen         |
+|------------------------|------------------------|------------------------|
 | ![](Screenshots/3.png) | ![](Screenshots/4.png) | ![](Screenshots/5.png) |
 
-| Chats Tab |          Status Tab       |
-|-----------|---------------------------|
+|       Chats Tab        |       Status Tab       |
+|------------------------|------------------------|
 | ![](Screenshots/6.png) | ![](Screenshots/7.png) |
 
----
-
-| Calls Tab      |
-|----------------|
+|       Calls Tab        |
+|------------------------|
 | ![](Screenshots/8.png) |
 
 ---
@@ -116,7 +114,3 @@ Scan the QR code with **Expo Go** on your mobile device to preview.
 ## 🙌 Credits
 
 This app UI is recreated for learning and personal project purposes, inspired by WhatsApp’s original design.
-
-```
-
----
