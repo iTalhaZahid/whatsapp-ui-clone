@@ -1,18 +1,3 @@
-Great — here's your **final `README.md` file** including:
-
-* Project Overview
-* Features
-* Screenshots (with placeholder paths)
-* Android vs iOS comparison section
-* Setup instructions
-* Tech stack & project structure
-
-You can copy this directly into your `README.md` or let me know if you'd like a downloadable file.
-
----
-
-### 📄 `README.md`
-
 ```markdown
 # 📱 WhatsApp Clone (Classic UI)
 
@@ -31,33 +16,30 @@ A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo
 - 🗨️ Chat list with message preview, unread badge, time
 - 📸 Status screen with recent updates
 - 📞 Calls tab with incoming/outgoing/missed call indicators
-- 🌙 Support for light and dark mode styles (visually consistent)
 
 ---
 
 ## 📸 Screenshots
 
-> Add these images in a `/screenshots` folder in your repository.
+> Images are stored in the `/Screenshots` folder.
 
-| Splash Screen | Welcome | Phone Input |
-|---------------|---------|--------------|
-| ![](screenshots/splash.png) | ![](screenshots/welcome.png) | ![](screenshots/phone.png) |
+ Splash Screen | Activity Indicator Animation |
+---------------|------------------------------|
+![](Screenshots/1.png) | ![](Screenshots/2.png) |
 
-| OTP Screen | Chats Tab | Status Tab |
-|------------|-----------|------------|
-| ![](screenshots/otp.png) | ![](screenshots/chats.png) | ![](screenshots/status.png) |
+| Welcome Screen | Phone Input  | OTP Screen |
+|----------------|--------------|------------|
+| ![](Screenshots/3.png) | ![](Screenshots/4.png) | ![](Screenshots/5.png) |
 
-| Calls Tab |
-|-----------|
-| ![](screenshots/calls.png) |
+| Chats Tab |          Status Tab       |
+|-----------|---------------------------|
+| ![](Screenshots/6.png) | ![](Screenshots/7.png) |
 
 ---
 
-## 🆚 Android vs iOS Comparison
-
-| Android vs iOS |
+| Calls Tab      |
 |----------------|
-| ![](screenshots/whatsapp_ios_vs_android_comparison.jpg) |
+| ![](Screenshots/8.png) |
 
 ---
 
@@ -67,14 +49,14 @@ A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo
 
 src/
 ├── app/
-│   ├── (auth)/              # Screens: splash, welcome, phone, otp
-│   ├── (main)/              # Screens: chats, status, calls
+│   ├── (auth)/              # Screens: splash, Welcome, Phone, OTP
+│   ├── (main)/              # Screens: Main Screen
 │   └── \_layout.tsx          # Expo Router config
 ├── assets/                  # App icons, images
 ├── components/
-│   ├── atom/                # Text, buttons, icons
-│   └── molecule/            # Chat cards, status rows
-├── constants/               # Colors, dimensions, strings
+│   ├── atom/                # Custom Status Bar
+│   └── molecule/            # Screens:Calls,Chats,Status,Message Card
+├── constants/               # Logo,Pics
 
 ````
 
@@ -86,7 +68,6 @@ src/
 - **TypeScript**
 - **Expo Router**
 - **Atomic Design pattern**
-- **ESLint + Prettier** (if configured)
 
 ---
 
@@ -95,7 +76,7 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-clone.git
+git clone https://github.com/italhazahid/whatsapp-ui-clone.git
 cd whatsapp-clone
 ````
 
@@ -113,15 +94,15 @@ yarn install
 npx expo start
 ```
 
-Use the QR code to open it in **Expo Go** on your device.
+Scan the QR code with **Expo Go** on your mobile device to preview.
 
 ---
 
 ## 🚧 Future Enhancements
 
-* 🔐 Connect Firebase for phone authentication
-* 💬 Add real-time chat functionality
-* 📁 Enable media upload and file sharing
+* 🔐 Firebase for phone authentication
+* 💬 Real-time chat functionality
+* 📁 Media upload & file sharing
 * 🔔 Push notifications
 * 🌗 System-based dark/light theme toggle
 
@@ -129,14 +110,10 @@ Use the QR code to open it in **Expo Go** on your device.
 
 ## 📄 License
 
-[MIT](LICENSE) © 2025 \[Talha Zahid]
+[MIT](LICENSE) © 2025 Talha Zahid
 
 ---
 
 ## 🙌 Credits
 
 This app UI is recreated for learning and personal project purposes, inspired by WhatsApp’s original design.
-
-```
-
----
