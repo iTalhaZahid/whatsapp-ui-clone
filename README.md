@@ -138,5 +138,3 @@ Use the QR code to open it in **Expo Go** on your device.
 This app UI is recreated for learning and personal project purposes, inspired by WhatsApp’s original design.
 
 ```
-
----
