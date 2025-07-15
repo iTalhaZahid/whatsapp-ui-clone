@@ -45,7 +45,6 @@ A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo
 
 ## 🧱 Folder Structure
 
-```
 
 src/
 ├── app/
@@ -117,3 +116,7 @@ Scan the QR code with **Expo Go** on your mobile device to preview.
 ## 🙌 Credits
 
 This app UI is recreated for learning and personal project purposes, inspired by WhatsApp’s original design.
+
+```
+
+---
