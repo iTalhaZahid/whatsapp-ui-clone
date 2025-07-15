@@ -23,26 +23,21 @@ A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo
 
 > Images are stored in the `/Screenshots` folder.
 
-## 📸 Screenshots
+|   Splash Screen       | Activity Indicator Animation |
+|-----------------------|------------------------------|
+|![](/Screenshots/1.png) | ![](/Screenshots/2.png)       |
 
-> Images are stored in the `/Screenshots` folder.
+|    Welcome Screen      |        Phone Input     |     OTP Screen         |
+|------------------------|------------------------|------------------------|
+| ![](/Screenshots/3.png) | ![](/Screenshots/4.png) | ![](/Screenshots/5.png) |
 
-| Splash Screen              | Activity Indicator Animation |
-|----------------------------|------------------------------|
-| <img src="Screenshots/1.png" width="200"/> | <img src="Screenshots/2.png" width="200"/> |
+|       Chats Tab        |       Status Tab       |
+|------------------------|------------------------|
+| ![](/Screenshots/6.png) | ![](/Screenshots/7.png) |
 
-| Welcome Screen            | Phone Input                 | OTP Screen                |
-|---------------------------|------------------------------|----------------------------|
-| <img src="Screenshots/3.png" width="200"/> | <img src="Screenshots/4.png" width="200"/> | <img src="Screenshots/5.png" width="200"/> |
-
-| Chats Tab                 | Status Tab                  |
-|---------------------------|------------------------------|
-| <img src="Screenshots/6.png" width="200"/> | <img src="Screenshots/7.png" width="200"/> |
-
-| Calls Tab                |
-|--------------------------|
-| <img src="Screenshots/8.png" width="200"/> |
-
+|       Calls Tab        |
+|------------------------|
+| ![](/Screenshots/8.png) |
 
 ---
 
