@@ -1,4 +1,3 @@
-```markdown
 # 📱 WhatsApp Clone (Classic UI)
 
 A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo**, and **TypeScript**. This project mimics the old WhatsApp layout for **chats**, **status**, **calls**, and **authentication flow**. Fully responsive across Android and iOS platforms.
@@ -17,7 +16,6 @@ A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo
 - 📸 Status screen with recent updates
 - 📞 Calls tab with incoming/outgoing/missed call indicators
 
----
 ## 📸 Screenshots
 
 > Images are stored in the `/Screenshots` folder.
@@ -30,12 +28,11 @@ A UI-only clone of the classic WhatsApp app built using **React Native**, **Expo
 |------------------------|------------------------|------------------------|------------------------|
 |   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/5.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> |   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/6.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> |   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/7.png?raw=true" alt="Alt Text" style="width:250px; height:auto;">|   <img src="https://github.com/iTalhaZahid/whatsapp-ui-clone/blob/0d338de2b774ad239bf3e4599adbe27c925d462e/Screenshots/8.png?raw=true" alt="Alt Text" style="width:250px; height:auto;"> | 
 
----
 
 
 ## 🧱 Folder Structure
 
-
+```markdown
 src/
 ├── app/
 │   ├── (auth)/              # Screens: splash, Welcome, Phone, OTP
@@ -44,12 +41,10 @@ src/
 ├── assets/                  # App icons, images
 ├── components/
 │   ├── atom/                # Custom Status Bar
-│   └── molecule/            # Screens:Calls,Chats,Status,Message Card
+│   └── molecule/            # Screens: Calls,Chats,Status,Message Card
 ├── constants/               # Logo,Pics
 
-````
-
----
+```
 
 ## 🛠 Tech Stack
 
@@ -58,7 +53,6 @@ src/
 - **Expo Router**
 - **Atomic Design pattern**
 
----
 
 ## 🚀 Getting Started
 
